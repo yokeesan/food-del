@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # food-delivery
 # food-delivery
 # food-delivery
+# food-del
